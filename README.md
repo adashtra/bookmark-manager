@@ -42,7 +42,6 @@ First user story for 'Show a list of bookmarks':
 As a very busy user
 So I can manage my most visited websites
 I would like to view a list of bookmarks
-<br>
 ![Bookmark Domain Model](Bookmark_Domain_Model.png)
 As a very busy user
 So that I can save a website
@@ -86,6 +85,8 @@ So I can manage my most visited websites
 I would like to view a list of bookmarks
 <br>
 ![Bookmark Domain Model](Bookmark_Domain_Model.png)
+
+
 As a very busy user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
