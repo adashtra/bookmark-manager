@@ -1,73 +1,86 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/laurenashton/Projects/bookmark-manager/app.rb": {
+      "/Users/laurenashton/Projects/databases/bookmark-manager/app.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
           null,
           1,
           1,
-          null,
-          1,
           1,
           null,
           null,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
       },
-      "/Users/laurenashton/Projects/bookmark-manager/lib/Bookmark.rb": {
+      "/Users/laurenashton/Projects/databases/bookmark-manager/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
           1,
-          2,
-          2,
-          8,
+          0,
+          0,
           null,
-          null
-        ]
-      },
-      "/Users/laurenashton/Projects/bookmark-manager/spec/features/bookmarks_spec.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          null,
+          null,
+          0,
+          0,
           null,
           null
         ]
       },
-      "/Users/laurenashton/Projects/bookmark-manager/spec/features/database_spec.rb": {
+      "/Users/laurenashton/Projects/databases/bookmark-manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
           null,
           null
         ]
       },
-      "/Users/laurenashton/Projects/bookmark-manager/spec/features/index_spec.rb": {
+      "/Users/laurenashton/Projects/databases/bookmark-manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
+          null,
           1,
           1,
-          1,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
           null,
           null
         ]
       }
     },
-    "timestamp": 1633968023
+    "timestamp": 1634059223
   }
 }
