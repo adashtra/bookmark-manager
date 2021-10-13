@@ -55,6 +55,16 @@ Build a web app that stores bookmarks in a PostgreSQL database.
 
 ---
 
+## User stories:
+
+```
+As a user
+So I can save my websites
+I need to be able to create a bookmark
+```
+
+
+
 # Databases 
 
 ## Running psql: 
