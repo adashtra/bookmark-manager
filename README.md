@@ -38,7 +38,7 @@ Build a web app that stores bookmarks in a PostgreSQL database.
 - [x] Interacting with Postgres from Ruby
 - [x] Upgrading your Toolset
 - [x] Setting up a Testing Environment
-- [ ] Creating bookmarks
+- [x] Creating bookmarks
 - [ ] Wrapping Database data in program objects
 - [ ] Securing Your App
 - [ ] Deleting bookmarks
