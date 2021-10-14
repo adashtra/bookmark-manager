@@ -39,9 +39,9 @@ Build a web app that stores bookmarks in a PostgreSQL database.
 - [x] Upgrading your Toolset
 - [x] Setting up a Testing Environment
 - [x] Creating bookmarks
-- [ ] Wrapping Database data in program objects
-- [ ] Securing Your App
-- [ ] Deleting bookmarks
+- [x] Wrapping Database data in program objects
+- [x] Securing Your App
+- [x] Deleting bookmarks
 
 ## Guided extensions:
 
@@ -63,6 +63,14 @@ So I can save my websites
 I need to be able to create a bookmark
 ```
 
+
+
+Extensions:
+```
+As a user
+So I can change a bookmark in Bookmark Manager
+I want to update a bookmark
+```
 
 
 # Databases 
