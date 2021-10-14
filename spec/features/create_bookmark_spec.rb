@@ -17,7 +17,6 @@ feature "Creating a bookmark" do
     fill_in "title", with: "Youtube"
     click_button("Submit")
     visit("/bookmarks")
-    save_and_open_page
     expect(page).to have_content("Youtube")
   end
 end
